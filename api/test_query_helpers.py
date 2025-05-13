@@ -35,6 +35,9 @@ print(f"Nombre de films:{n_movies}")
 
 #Retourner le nombre d'evaluations
 n_eval =  get_rating_count(db)
-print(f"Nombre de films:{n_movies}")
+print(f"Nombre d'évaluations:{n_eval}")
 
+#Retourner le nombre tag
+n_tags =  get_tag_count(db)
+print(f"Nombre de films:{n_tags}")
 db.close()
