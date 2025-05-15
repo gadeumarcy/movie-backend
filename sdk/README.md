@@ -10,7 +10,7 @@ Un SDK Python simple pour interagir avec l’API REST MovieLens. Il est conçu p
 ## Installation
 
 ```bash
-pip install pip install filmsdk-gadeumarcy
+pip install filmsdk_gadeumarcy
 ```
 
 ---
